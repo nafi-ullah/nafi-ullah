@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nafi-ullah-shafin-8b676b6d9h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafi-ullah-shafin-8b676b6d9h" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nafiullahshafin6360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nafiullahshafin6360" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCblmmCbDry0m1-F0niX36rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nafiullahshafin6360" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Programming Skills:</h4>
