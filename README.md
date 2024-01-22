@@ -11,7 +11,7 @@
 <a href="https://www.youtube.com/channel/UCblmmCbDry0m1-F0niX36rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nafiullahshafin6360" height="30" width="40" /></a>
 </p>
 
-<h4 align="left">Programming Skills:</h4>
+<h4 align="left">Programming Language:</h4>
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
