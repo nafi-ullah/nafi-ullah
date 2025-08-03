@@ -31,14 +31,12 @@
 ## 🔭 What I'm doing
 - Architecting and shipping **full-stack** features with **Next.js + TypeScript + Prisma** on **PostgreSQL/MongoDB**.
 - Hardening CI/CD with **GitHub Actions/Jenkins**, containerizing with **Docker**, and deploying to **AWS** (ECS/Lambda/S3/CloudFront).
-- Prototyping **Computer Vision** + **LLM** workflows; packaging as reproducible **MLOps** pipelines.
+- Developing **Computer Vision** + **LLM** workflows; packaging as reproducible **MLOps** pipelines.
 
 ## 🏆 Selected achievements
 - **Champion — Code Samurai BD 2024** (Inter-university).  
 - **Winner — “Collaborative AI” International Hackathon** (SJ Innovation).  
 - **8× Hackathon Winner** across AI/Software verticals.
-
-> *More details on LinkedIn and posts. Ping me if you want a dedicated “Achievements” page with write-ups & demos.*
 
 ## 🧰 Tech Stack
 
@@ -49,7 +47,7 @@
 
 ### Backend & Realtime
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma,redis,fastapi,flask,socketio" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,redis,fastapi,flask,socketio" />
 </p>
 
 ### Databases
@@ -78,7 +76,6 @@
 - **SWE Student — SUST**  
   Building research-grade prototypes in ML/CV and shipping production features in teams.
 
-> Want this section to auto-update with dates/links to projects? I can wire it to a JSON feed or a Notion database.
 
 ## 📚 Certifications & Highlights
 - *Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]* — Udemy  
@@ -92,19 +89,14 @@
 
 ## 🧪 Featured projects
 - **EcoSync** — Smart waste management dashboards and mobile ops (Next.js, Tailwind, TypeScript, realtime).  
-- **VisionOps** — Reproducible CV pipeline with dataset versioning, model training, and API serving.
+- **CattleWeightPredict** — Reproducible CV pipeline with dataset versioning, model training, and API serving.
 
-> Add links/screenshots and I’ll turn these into polished case studies with architecture diagrams.
+
 
 ## 🤝 Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/nafi-ullah-shafin-8b676b6d9h/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
   <a href="https://www.youtube.com/channel/UCblmmCbDry0m1-F0niX36rg"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube" /></a>
-</p>
-
-<!-- Fun: profile trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nafi-ullah&margin-w=10&margin-h=10&no-bg=true&theme=flat&column=6" />
 </p>
 
 
